@@ -1,0 +1,15 @@
+/home/student/kalkulačka/obj/Debug/net6.0/kalkulačka.csproj.AssemblyReference.cache
+/home/student/kalkulačka/obj/Debug/net6.0/kalkulačka.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/kalkulačka/obj/Debug/net6.0/kalkulačka.AssemblyInfoInputs.cache
+/home/student/kalkulačka/obj/Debug/net6.0/kalkulačka.AssemblyInfo.cs
+/home/student/kalkulačka/obj/Debug/net6.0/kalkulačka.csproj.CoreCompileInputs.cache
+/home/student/kalkulačka/bin/Debug/net6.0/kalkulačka
+/home/student/kalkulačka/bin/Debug/net6.0/kalkulačka.deps.json
+/home/student/kalkulačka/bin/Debug/net6.0/kalkulačka.runtimeconfig.json
+/home/student/kalkulačka/bin/Debug/net6.0/kalkulačka.dll
+/home/student/kalkulačka/bin/Debug/net6.0/kalkulačka.pdb
+/home/student/kalkulačka/obj/Debug/net6.0/kalkulačka.dll
+/home/student/kalkulačka/obj/Debug/net6.0/refint/kalkulačka.dll
+/home/student/kalkulačka/obj/Debug/net6.0/kalkulačka.pdb
+/home/student/kalkulačka/obj/Debug/net6.0/kalkulačka.genruntimeconfig.cache
+/home/student/kalkulačka/obj/Debug/net6.0/ref/kalkulačka.dll

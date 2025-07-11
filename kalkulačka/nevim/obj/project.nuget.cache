@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VGHwM9dU/9lbHZcBIkvOxakRGdDzMqT4ChawbMzijWFc6UczRiQM1XG69C03sqI+NSU146isy1yUOUPChEAZDA==",
+  "success": true,
+  "projectFilePath": "/home/student/kalkulačka/nevim/nevim.csproj",
+  "expectedPackageFiles": [
+    "/home/student/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/student/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/student/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/student/smazat2/obj/Debug/net6.0/smazat2.csproj.AssemblyReference.cache
+/home/student/smazat2/obj/Debug/net6.0/smazat2.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/smazat2/obj/Debug/net6.0/smazat2.AssemblyInfoInputs.cache
+/home/student/smazat2/obj/Debug/net6.0/smazat2.AssemblyInfo.cs
+/home/student/smazat2/obj/Debug/net6.0/smazat2.csproj.CoreCompileInputs.cache
+/home/student/smazat2/bin/Debug/net6.0/smazat2
+/home/student/smazat2/bin/Debug/net6.0/smazat2.deps.json
+/home/student/smazat2/bin/Debug/net6.0/smazat2.runtimeconfig.json
+/home/student/smazat2/bin/Debug/net6.0/smazat2.dll
+/home/student/smazat2/bin/Debug/net6.0/smazat2.pdb
+/home/student/smazat2/obj/Debug/net6.0/smazat2.dll
+/home/student/smazat2/obj/Debug/net6.0/refint/smazat2.dll
+/home/student/smazat2/obj/Debug/net6.0/smazat2.pdb
+/home/student/smazat2/obj/Debug/net6.0/smazat2.genruntimeconfig.cache
+/home/student/smazat2/obj/Debug/net6.0/ref/smazat2.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7XjsmU5zkqZ+h97vlPiWV87oMhq3hl9xRgPbxhfpZCRtdrgpxQ+z8GwsO9aolIk9jfPbCKheyXPAPBeadevy6g==",
+  "success": true,
+  "projectFilePath": "/home/student/kalkulacka3/kalkulacka3.csproj",
+  "expectedPackageFiles": [
+    "/home/student/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/student/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/student/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

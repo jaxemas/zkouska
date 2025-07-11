@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b7VLU/uMCr5iNVQNfMx0cEA7w+ybpzZEatqpaU37MXuDP9bIfnkjbB+SqnfTbsdmeEwy8aOkxM5YcZ7bWI6yrg==",
+  "success": true,
+  "projectFilePath": "/home/student/jaNevimm/jaNevimm.csproj",
+  "expectedPackageFiles": [
+    "/home/student/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/student/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/student/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

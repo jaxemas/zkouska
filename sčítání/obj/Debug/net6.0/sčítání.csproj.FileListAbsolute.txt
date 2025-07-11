@@ -1,0 +1,15 @@
+/home/student/sčítání/bin/Debug/net6.0/sčítání
+/home/student/sčítání/bin/Debug/net6.0/sčítání.deps.json
+/home/student/sčítání/bin/Debug/net6.0/sčítání.runtimeconfig.json
+/home/student/sčítání/bin/Debug/net6.0/sčítání.dll
+/home/student/sčítání/bin/Debug/net6.0/sčítání.pdb
+/home/student/sčítání/obj/Debug/net6.0/sčítání.csproj.AssemblyReference.cache
+/home/student/sčítání/obj/Debug/net6.0/sčítání.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/sčítání/obj/Debug/net6.0/sčítání.AssemblyInfoInputs.cache
+/home/student/sčítání/obj/Debug/net6.0/sčítání.AssemblyInfo.cs
+/home/student/sčítání/obj/Debug/net6.0/sčítání.csproj.CoreCompileInputs.cache
+/home/student/sčítání/obj/Debug/net6.0/sčítání.dll
+/home/student/sčítání/obj/Debug/net6.0/refint/sčítání.dll
+/home/student/sčítání/obj/Debug/net6.0/sčítání.pdb
+/home/student/sčítání/obj/Debug/net6.0/sčítání.genruntimeconfig.cache
+/home/student/sčítání/obj/Debug/net6.0/ref/sčítání.dll

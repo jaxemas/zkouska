@@ -1,0 +1,5 @@
+/home/student/nejakejMario/obj/Debug/net8.0/nejakejMario.csproj.AssemblyReference.cache
+/home/student/nejakejMario/obj/Debug/net8.0/nejakejMario.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/nejakejMario/obj/Debug/net8.0/nejakejMario.AssemblyInfoInputs.cache
+/home/student/nejakejMario/obj/Debug/net8.0/nejakejMario.AssemblyInfo.cs
+/home/student/nejakejMario/obj/Debug/net8.0/nejakejMario.csproj.CoreCompileInputs.cache

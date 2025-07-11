@@ -1,0 +1,14 @@
+/home/student/ramecekNaTex/obj/Debug/net8.0/ramecekNaTex.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/ramecekNaTex/obj/Debug/net8.0/ramecekNaTex.AssemblyInfoInputs.cache
+/home/student/ramecekNaTex/obj/Debug/net8.0/ramecekNaTex.AssemblyInfo.cs
+/home/student/ramecekNaTex/obj/Debug/net8.0/ramecekNaTex.csproj.CoreCompileInputs.cache
+/home/student/ramecekNaTex/bin/Debug/net8.0/ramecekNaTex
+/home/student/ramecekNaTex/bin/Debug/net8.0/ramecekNaTex.deps.json
+/home/student/ramecekNaTex/bin/Debug/net8.0/ramecekNaTex.runtimeconfig.json
+/home/student/ramecekNaTex/bin/Debug/net8.0/ramecekNaTex.dll
+/home/student/ramecekNaTex/bin/Debug/net8.0/ramecekNaTex.pdb
+/home/student/ramecekNaTex/obj/Debug/net8.0/ramecekNaTex.dll
+/home/student/ramecekNaTex/obj/Debug/net8.0/refint/ramecekNaTex.dll
+/home/student/ramecekNaTex/obj/Debug/net8.0/ramecekNaTex.pdb
+/home/student/ramecekNaTex/obj/Debug/net8.0/ramecekNaTex.genruntimeconfig.cache
+/home/student/ramecekNaTex/obj/Debug/net8.0/ref/ramecekNaTex.dll

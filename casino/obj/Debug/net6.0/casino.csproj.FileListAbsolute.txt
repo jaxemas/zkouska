@@ -1,0 +1,15 @@
+/home/student/casino/obj/Debug/net6.0/casino.csproj.AssemblyReference.cache
+/home/student/casino/obj/Debug/net6.0/casino.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/casino/obj/Debug/net6.0/casino.AssemblyInfoInputs.cache
+/home/student/casino/obj/Debug/net6.0/casino.AssemblyInfo.cs
+/home/student/casino/obj/Debug/net6.0/casino.csproj.CoreCompileInputs.cache
+/home/student/casino/bin/Debug/net6.0/casino
+/home/student/casino/bin/Debug/net6.0/casino.deps.json
+/home/student/casino/bin/Debug/net6.0/casino.runtimeconfig.json
+/home/student/casino/bin/Debug/net6.0/casino.dll
+/home/student/casino/bin/Debug/net6.0/casino.pdb
+/home/student/casino/obj/Debug/net6.0/casino.dll
+/home/student/casino/obj/Debug/net6.0/refint/casino.dll
+/home/student/casino/obj/Debug/net6.0/casino.pdb
+/home/student/casino/obj/Debug/net6.0/casino.genruntimeconfig.cache
+/home/student/casino/obj/Debug/net6.0/ref/casino.dll

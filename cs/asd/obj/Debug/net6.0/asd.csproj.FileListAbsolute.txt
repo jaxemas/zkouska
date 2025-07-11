@@ -1,0 +1,15 @@
+/home/student/cs/asd/bin/Debug/net6.0/asd
+/home/student/cs/asd/bin/Debug/net6.0/asd.deps.json
+/home/student/cs/asd/bin/Debug/net6.0/asd.runtimeconfig.json
+/home/student/cs/asd/bin/Debug/net6.0/asd.dll
+/home/student/cs/asd/bin/Debug/net6.0/asd.pdb
+/home/student/cs/asd/obj/Debug/net6.0/asd.csproj.AssemblyReference.cache
+/home/student/cs/asd/obj/Debug/net6.0/asd.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/cs/asd/obj/Debug/net6.0/asd.AssemblyInfoInputs.cache
+/home/student/cs/asd/obj/Debug/net6.0/asd.AssemblyInfo.cs
+/home/student/cs/asd/obj/Debug/net6.0/asd.csproj.CoreCompileInputs.cache
+/home/student/cs/asd/obj/Debug/net6.0/asd.dll
+/home/student/cs/asd/obj/Debug/net6.0/refint/asd.dll
+/home/student/cs/asd/obj/Debug/net6.0/asd.pdb
+/home/student/cs/asd/obj/Debug/net6.0/asd.genruntimeconfig.cache
+/home/student/cs/asd/obj/Debug/net6.0/ref/asd.dll

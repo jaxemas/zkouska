@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6/XETdDlDow/1iUnVvHvLAnCE/RoHc7w0OM5H/0UmVHR3Ebc2LfhH70wQCiCEvZVj1TBeclxJqp9uCUuocKeJg==",
+  "success": true,
+  "projectFilePath": "/home/student/cs/asd/ko/ko.csproj",
+  "expectedPackageFiles": [
+    "/home/student/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/student/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/student/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

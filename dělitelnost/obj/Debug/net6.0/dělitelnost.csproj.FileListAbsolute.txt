@@ -1,0 +1,15 @@
+/home/student/dělitelnost/obj/Debug/net6.0/dělitelnost.csproj.AssemblyReference.cache
+/home/student/dělitelnost/obj/Debug/net6.0/dělitelnost.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/dělitelnost/obj/Debug/net6.0/dělitelnost.AssemblyInfoInputs.cache
+/home/student/dělitelnost/obj/Debug/net6.0/dělitelnost.AssemblyInfo.cs
+/home/student/dělitelnost/obj/Debug/net6.0/dělitelnost.csproj.CoreCompileInputs.cache
+/home/student/dělitelnost/bin/Debug/net6.0/dělitelnost
+/home/student/dělitelnost/bin/Debug/net6.0/dělitelnost.deps.json
+/home/student/dělitelnost/bin/Debug/net6.0/dělitelnost.runtimeconfig.json
+/home/student/dělitelnost/bin/Debug/net6.0/dělitelnost.dll
+/home/student/dělitelnost/bin/Debug/net6.0/dělitelnost.pdb
+/home/student/dělitelnost/obj/Debug/net6.0/dělitelnost.dll
+/home/student/dělitelnost/obj/Debug/net6.0/refint/dělitelnost.dll
+/home/student/dělitelnost/obj/Debug/net6.0/dělitelnost.pdb
+/home/student/dělitelnost/obj/Debug/net6.0/dělitelnost.genruntimeconfig.cache
+/home/student/dělitelnost/obj/Debug/net6.0/ref/dělitelnost.dll

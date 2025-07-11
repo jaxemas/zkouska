@@ -1,0 +1,15 @@
+/home/student/matematika2/obj/Debug/net6.0/matematika2.csproj.AssemblyReference.cache
+/home/student/matematika2/obj/Debug/net6.0/matematika2.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/matematika2/obj/Debug/net6.0/matematika2.AssemblyInfoInputs.cache
+/home/student/matematika2/obj/Debug/net6.0/matematika2.AssemblyInfo.cs
+/home/student/matematika2/obj/Debug/net6.0/matematika2.csproj.CoreCompileInputs.cache
+/home/student/matematika2/bin/Debug/net6.0/matematika2
+/home/student/matematika2/bin/Debug/net6.0/matematika2.deps.json
+/home/student/matematika2/bin/Debug/net6.0/matematika2.runtimeconfig.json
+/home/student/matematika2/bin/Debug/net6.0/matematika2.dll
+/home/student/matematika2/bin/Debug/net6.0/matematika2.pdb
+/home/student/matematika2/obj/Debug/net6.0/matematika2.dll
+/home/student/matematika2/obj/Debug/net6.0/refint/matematika2.dll
+/home/student/matematika2/obj/Debug/net6.0/matematika2.pdb
+/home/student/matematika2/obj/Debug/net6.0/matematika2.genruntimeconfig.cache
+/home/student/matematika2/obj/Debug/net6.0/ref/matematika2.dll

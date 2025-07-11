@@ -1,0 +1,15 @@
+/home/student/hrabe/obj/Debug/net6.0/hrabe.csproj.AssemblyReference.cache
+/home/student/hrabe/obj/Debug/net6.0/hrabe.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/hrabe/obj/Debug/net6.0/hrabe.AssemblyInfoInputs.cache
+/home/student/hrabe/obj/Debug/net6.0/hrabe.AssemblyInfo.cs
+/home/student/hrabe/obj/Debug/net6.0/hrabe.csproj.CoreCompileInputs.cache
+/home/student/hrabe/bin/Debug/net6.0/hrabe
+/home/student/hrabe/bin/Debug/net6.0/hrabe.deps.json
+/home/student/hrabe/bin/Debug/net6.0/hrabe.runtimeconfig.json
+/home/student/hrabe/bin/Debug/net6.0/hrabe.dll
+/home/student/hrabe/bin/Debug/net6.0/hrabe.pdb
+/home/student/hrabe/obj/Debug/net6.0/hrabe.dll
+/home/student/hrabe/obj/Debug/net6.0/refint/hrabe.dll
+/home/student/hrabe/obj/Debug/net6.0/hrabe.pdb
+/home/student/hrabe/obj/Debug/net6.0/hrabe.genruntimeconfig.cache
+/home/student/hrabe/obj/Debug/net6.0/ref/hrabe.dll

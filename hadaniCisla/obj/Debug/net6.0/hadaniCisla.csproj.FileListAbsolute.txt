@@ -1,0 +1,15 @@
+/home/student/hadaniCisla/obj/Debug/net6.0/hadaniCisla.csproj.AssemblyReference.cache
+/home/student/hadaniCisla/obj/Debug/net6.0/hadaniCisla.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/hadaniCisla/obj/Debug/net6.0/hadaniCisla.AssemblyInfoInputs.cache
+/home/student/hadaniCisla/obj/Debug/net6.0/hadaniCisla.AssemblyInfo.cs
+/home/student/hadaniCisla/obj/Debug/net6.0/hadaniCisla.csproj.CoreCompileInputs.cache
+/home/student/hadaniCisla/bin/Debug/net6.0/hadaniCisla
+/home/student/hadaniCisla/bin/Debug/net6.0/hadaniCisla.deps.json
+/home/student/hadaniCisla/bin/Debug/net6.0/hadaniCisla.runtimeconfig.json
+/home/student/hadaniCisla/bin/Debug/net6.0/hadaniCisla.dll
+/home/student/hadaniCisla/bin/Debug/net6.0/hadaniCisla.pdb
+/home/student/hadaniCisla/obj/Debug/net6.0/hadaniCisla.dll
+/home/student/hadaniCisla/obj/Debug/net6.0/refint/hadaniCisla.dll
+/home/student/hadaniCisla/obj/Debug/net6.0/hadaniCisla.pdb
+/home/student/hadaniCisla/obj/Debug/net6.0/hadaniCisla.genruntimeconfig.cache
+/home/student/hadaniCisla/obj/Debug/net6.0/ref/hadaniCisla.dll

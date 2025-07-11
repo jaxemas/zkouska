@@ -1,0 +1,5 @@
+/home/student/smazat/obj/Debug/net6.0/smazat.csproj.AssemblyReference.cache
+/home/student/smazat/obj/Debug/net6.0/smazat.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/smazat/obj/Debug/net6.0/smazat.AssemblyInfoInputs.cache
+/home/student/smazat/obj/Debug/net6.0/smazat.AssemblyInfo.cs
+/home/student/smazat/obj/Debug/net6.0/smazat.csproj.CoreCompileInputs.cache

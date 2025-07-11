@@ -1,0 +1,15 @@
+/home/student/kalulačka2/obj/Debug/net6.0/kalulačka2.csproj.AssemblyReference.cache
+/home/student/kalulačka2/obj/Debug/net6.0/kalulačka2.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/kalulačka2/obj/Debug/net6.0/kalulačka2.AssemblyInfoInputs.cache
+/home/student/kalulačka2/obj/Debug/net6.0/kalulačka2.AssemblyInfo.cs
+/home/student/kalulačka2/obj/Debug/net6.0/kalulačka2.csproj.CoreCompileInputs.cache
+/home/student/kalulačka2/bin/Debug/net6.0/kalulačka2
+/home/student/kalulačka2/bin/Debug/net6.0/kalulačka2.deps.json
+/home/student/kalulačka2/bin/Debug/net6.0/kalulačka2.runtimeconfig.json
+/home/student/kalulačka2/bin/Debug/net6.0/kalulačka2.dll
+/home/student/kalulačka2/bin/Debug/net6.0/kalulačka2.pdb
+/home/student/kalulačka2/obj/Debug/net6.0/kalulačka2.dll
+/home/student/kalulačka2/obj/Debug/net6.0/refint/kalulačka2.dll
+/home/student/kalulačka2/obj/Debug/net6.0/kalulačka2.pdb
+/home/student/kalulačka2/obj/Debug/net6.0/kalulačka2.genruntimeconfig.cache
+/home/student/kalulačka2/obj/Debug/net6.0/ref/kalulačka2.dll

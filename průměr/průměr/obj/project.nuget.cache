@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mu6Bv5guXbaOLM0htRd8D/Um+0KCIsTMJGM4e4S2/5QqK1idsgIrx/y62xeDL6mPWNdPO0SJPQ4RAYupF/jupA==",
+  "success": true,
+  "projectFilePath": "/home/student/průměr/průměr/průměr.csproj",
+  "expectedPackageFiles": [
+    "/home/student/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/student/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/student/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

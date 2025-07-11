@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TyJVH88d7LBxUmGHcadGm6EfmrtDsZOmJWDvMXRo+nxzx/OUuOPUecYyJ5bQbHS4TFk+zjzr2EHERrGKVqXB9w==",
+  "success": true,
+  "projectFilePath": "/home/student/matematika/matematika.csproj",
+  "expectedPackageFiles": [
+    "/home/student/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/student/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/student/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

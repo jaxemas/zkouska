@@ -1,0 +1,15 @@
+/home/student/pruměr2/bin/Debug/net6.0/pruměr2
+/home/student/pruměr2/bin/Debug/net6.0/pruměr2.deps.json
+/home/student/pruměr2/bin/Debug/net6.0/pruměr2.runtimeconfig.json
+/home/student/pruměr2/bin/Debug/net6.0/pruměr2.dll
+/home/student/pruměr2/bin/Debug/net6.0/pruměr2.pdb
+/home/student/pruměr2/obj/Debug/net6.0/pruměr2.csproj.AssemblyReference.cache
+/home/student/pruměr2/obj/Debug/net6.0/pruměr2.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/pruměr2/obj/Debug/net6.0/pruměr2.AssemblyInfoInputs.cache
+/home/student/pruměr2/obj/Debug/net6.0/pruměr2.AssemblyInfo.cs
+/home/student/pruměr2/obj/Debug/net6.0/pruměr2.csproj.CoreCompileInputs.cache
+/home/student/pruměr2/obj/Debug/net6.0/pruměr2.dll
+/home/student/pruměr2/obj/Debug/net6.0/refint/pruměr2.dll
+/home/student/pruměr2/obj/Debug/net6.0/pruměr2.pdb
+/home/student/pruměr2/obj/Debug/net6.0/pruměr2.genruntimeconfig.cache
+/home/student/pruměr2/obj/Debug/net6.0/ref/pruměr2.dll

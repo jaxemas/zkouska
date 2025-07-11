@@ -1,0 +1,15 @@
+/home/student/lis/covim/bin/Debug/net6.0/covim
+/home/student/lis/covim/bin/Debug/net6.0/covim.deps.json
+/home/student/lis/covim/bin/Debug/net6.0/covim.runtimeconfig.json
+/home/student/lis/covim/bin/Debug/net6.0/covim.dll
+/home/student/lis/covim/bin/Debug/net6.0/covim.pdb
+/home/student/lis/covim/obj/Debug/net6.0/covim.csproj.AssemblyReference.cache
+/home/student/lis/covim/obj/Debug/net6.0/covim.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/lis/covim/obj/Debug/net6.0/covim.AssemblyInfoInputs.cache
+/home/student/lis/covim/obj/Debug/net6.0/covim.AssemblyInfo.cs
+/home/student/lis/covim/obj/Debug/net6.0/covim.csproj.CoreCompileInputs.cache
+/home/student/lis/covim/obj/Debug/net6.0/covim.dll
+/home/student/lis/covim/obj/Debug/net6.0/refint/covim.dll
+/home/student/lis/covim/obj/Debug/net6.0/covim.pdb
+/home/student/lis/covim/obj/Debug/net6.0/covim.genruntimeconfig.cache
+/home/student/lis/covim/obj/Debug/net6.0/ref/covim.dll

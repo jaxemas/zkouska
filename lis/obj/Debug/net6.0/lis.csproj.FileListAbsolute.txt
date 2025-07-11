@@ -1,0 +1,5 @@
+/home/student/lis/obj/Debug/net6.0/lis.csproj.AssemblyReference.cache
+/home/student/lis/obj/Debug/net6.0/lis.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/lis/obj/Debug/net6.0/lis.AssemblyInfoInputs.cache
+/home/student/lis/obj/Debug/net6.0/lis.AssemblyInfo.cs
+/home/student/lis/obj/Debug/net6.0/lis.csproj.CoreCompileInputs.cache

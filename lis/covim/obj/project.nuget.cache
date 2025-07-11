@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s5b7UaaZK/tBP8mxK2n1F38OQWhCKehcimPxbx9zASl129uJZhLCcc7jw2zGeb30DyIFDp8dcEXPX64ebzijXA==",
+  "success": true,
+  "projectFilePath": "/home/student/lis/covim/covim.csproj",
+  "expectedPackageFiles": [
+    "/home/student/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/student/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/student/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
